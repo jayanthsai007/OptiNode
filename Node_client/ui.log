@@ -1,0 +1,787 @@
+[2026-04-14 08:12:56] UI started
+[2026-04-14 08:12:56] Agent start error: [WinError 193] %1 is not a valid Win32 application
+[2026-04-14 08:12:58] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:03] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:07] Opened file: C:/Users/91960/Downloads/Test file.py
+[2026-04-14 08:13:08] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:13] Opened file: C:/Users/91960/Downloads/Test file.java
+[2026-04-14 08:13:13] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:19] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:24] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:29] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:34] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:39] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:13:40] UI closed
+[2026-04-14 08:17:14] UI started
+[2026-04-14 08:17:14] Agent start error: [WinError 193] %1 is not a valid Win32 application
+[2026-04-14 08:17:16] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:21] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:22] Opened file: C:/Users/91960/Downloads/Test file.py
+[2026-04-14 08:17:26] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:28] Opened file: C:/Users/91960/Downloads/Test file.java
+[2026-04-14 08:17:30] Tab closed
+[2026-04-14 08:17:31] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:33] Tab closed
+[2026-04-14 08:17:36] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:41] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:17:47] UI closed
+[2026-04-14 08:30:04] UI started
+[2026-04-14 08:30:04] Agent start error: [WinError 193] %1 is not a valid Win32 application
+[2026-04-14 08:30:04] Connected to backend
+[2026-04-14 08:30:14] Opened file: C:/Users/91960/Downloads/Test file.py
+[2026-04-14 08:30:17] Sending execution request
+[2026-04-14 08:30:17] Task sent: bfa25dc5-482d-486f-bb15-d5604cc38093
+[2026-04-14 08:30:17] Execution completed
+[2026-04-14 08:31:26] WS reconnect: received 1012 (service restart); then sent 1012 (service restart)
+[2026-04-14 08:31:31] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:31:37] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:31:42] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:31:47] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:31:52] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:31:57] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:32:02] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:32:07] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:32:11] UI closed
+[2026-04-14 08:48:46] UI started
+[2026-04-14 08:48:46] Agent start error: [WinError 193] %1 is not a valid Win32 application
+[2026-04-14 08:48:46] Connected to backend
+[2026-04-14 08:48:53] Opened file: C:/Users/91960/Downloads/Test file.py
+[2026-04-14 08:48:59] Sending execution request
+[2026-04-14 08:48:59] Task sent: 87d3f574-1104-4380-8151-515fcee1bb84
+[2026-04-14 08:49:00] Execution completed
+[2026-04-14 08:49:47] WS reconnect: received 1012 (service restart); then sent 1012 (service restart)
+[2026-04-14 08:49:52] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:49:57] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:02] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:07] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:12] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:17] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:22] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:27] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:32] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:37] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:42] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:48] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:53] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:50:58] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:03] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:08] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:13] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:18] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:23] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:28] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:33] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:38] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:43] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:48] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:53] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:51:58] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:03] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:08] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:13] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:18] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:23] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:28] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:34] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:39] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:44] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:49] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:54] WS reconnect: [WinError 1225] The remote computer refused the network connection
+[2026-04-14 08:52:55] UI closed
+[2026-04-14 13:01:08] Agent started PY
+[2026-04-14 13:02:08] Agent stopped
+[2026-04-14 13:03:50] Agent started PY
+[2026-04-14 13:04:23] Agent stopped
+[13:21:12] UI started
+[13:21:12] Agent started PY
+[13:21:12] Connected to backend
+[13:21:12] WS Received: {'type': 'node_status', 'data': {'node_id': '3708d4b2-4f31-4764-99f1-0725e2cdfa3c', 'status': 'OFFLINE'}}
+[13:21:12] WS Received: {'type': 'node_status', 'data': {'node_id': '49eacd46-016b-49c2-a3cd-183748c34cb2', 'status': 'OFFLINE'}}
+[13:21:12] WS Received: {'type': 'node_status', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'status': 'ACTIVE'}}
+[13:21:12] WS Received: {'type': 'node_status', 'data': {'node_id': 'd888c6c6-020f-447d-956e-99aff288b2a8', 'status': 'OFFLINE'}}
+[13:21:14] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 12.4, 'memory': 93.6, 'temperature': 40.0}}
+[13:21:17] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 9.5, 'memory': 93.5, 'temperature': 40.0}}
+[13:21:19] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 7.1, 'memory': 93.7, 'temperature': 40.0}}
+[13:21:22] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 11.2, 'memory': 93.9, 'temperature': 40.0}}
+[13:21:24] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 9.1, 'memory': 94.3, 'temperature': 40.0}}
+[13:21:27] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 5.0, 'memory': 94.8, 'temperature': 40.0}}
+[13:21:29] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 5.6, 'memory': 94.7, 'temperature': 40.0}}
+[13:21:32] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 4.7, 'memory': 94.8, 'temperature': 40.0}}
+[13:21:34] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 7.9, 'memory': 94.9, 'temperature': 40.0}}
+[13:21:36] Opened file: C:/Users/91960/Downloads/Test file.py
+[13:21:37] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 8.6, 'memory': 94.8, 'temperature': 40.0}}
+[13:21:39] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 4.4, 'memory': 94.7, 'temperature': 40.0}}
+[13:21:40] Sending execution request
+[13:21:40] Task sent: 7df197f9-ecd9-4d07-b852-9ffecef3e589
+[13:21:40] WS Received: {'type': 'execution_result', 'data': {'task_id': '7df197f9-ecd9-4d07-b852-9ffecef3e589', 'output': '', 'error': 'failed to connect to the docker API at npipe:////./pipe/dockerDesktopLinuxEngine; check if the path is correct and if the daemon is running: open //./pipe/dockerDesktopLinuxEngine: The system cannot find the file specified.\n', 'execution_time': 0, 'language': 'python'}}
+[13:21:42] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 6.5, 'memory': 94.8, 'temperature': 40.0}}
+[13:21:44] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 9.5, 'memory': 95.1, 'temperature': 40.0}}
+[13:21:47] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 6.0, 'memory': 95.1, 'temperature': 40.0}}
+[13:21:49] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 2.9, 'memory': 95.1, 'temperature': 40.0}}
+[13:21:52] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 4.1, 'memory': 95.3, 'temperature': 40.0}}
+[13:21:54] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 4.7, 'memory': 95.2, 'temperature': 40.0}}
+[13:21:57] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 7.1, 'memory': 93.7, 'temperature': 40.0}}
+[13:21:59] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 7.7, 'memory': 93.2, 'temperature': 40.0}}
+[13:22:01] Agent stopped
+[13:22:01] UI closed
+[13:29:19] UI started
+[13:29:20] Agent started PY
+[13:29:20] Connected to backend
+[13:29:20] WS Received: {'type': 'node_status', 'data': {'node_id': '3708d4b2-4f31-4764-99f1-0725e2cdfa3c', 'status': 'OFFLINE'}}
+[13:29:20] WS Received: {'type': 'node_status', 'data': {'node_id': '49eacd46-016b-49c2-a3cd-183748c34cb2', 'status': 'OFFLINE'}}
+[13:29:20] WS Received: {'type': 'node_status', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'status': 'ACTIVE'}}
+[13:29:20] WS Received: {'type': 'node_status', 'data': {'node_id': 'd888c6c6-020f-447d-956e-99aff288b2a8', 'status': 'OFFLINE'}}
+[13:29:20] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 21.2, 'memory': 94.2, 'temperature': 60.0}}
+[13:29:24] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 24.2, 'memory': 93.6, 'temperature': 40.0}}
+[13:29:25] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 19.6, 'memory': 93.5, 'temperature': 40.0}}
+[13:29:26] Opened file: C:/Users/91960/Downloads/Test file.py
+[13:29:29] Sending execution request
+[13:29:29] Task sent: 1c40fcca-f455-4716-9ca6-03526413455b
+[13:29:29] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 24.2, 'memory': 93.0, 'temperature': 40.0}}
+[13:29:30] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 28.2, 'memory': 95.6, 'temperature': 40.0}}
+[13:29:30] WS Received: {'type': 'execution_result', 'data': {'task_id': '1c40fcca-f455-4716-9ca6-03526413455b', 'output': '0\n1\n2\n3\n4', 'error': '', 'execution_time': 0, 'language': 'python'}}
+[13:29:34] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 22.6, 'memory': 92.7, 'temperature': 40.0}}
+[13:29:35] WS Received: {'type': 'metrics', 'data': {'node_id': 'f985efbb-a6ab-42db-8967-ed5418286b01', 'cpu': 17.1, 'memory': 92.5, 'temperature': 40.0}}
+[13:29:37] Agent stopped
+[13:29:37] UI closed
+[13:40:07] UI started
+[13:40:08] Agent started PY
+[13:40:28] Opened file: C:/Users/91960/Downloads/Test file.java
+[13:40:48] Agent stopped
+[13:40:48] UI closed
+[14:06:40] UI started
+[14:21:56] UI started
+[16:30:21] UI started
+[04:40:49] UI started
+[04:42:16] UI started
+[05:07:34] UI started
+[06:47:17] UI started
+[06:49:12] UI started
+[06:55:01] UI started
+[06:57:40] UI started
+[07:01:52] UI started
+[07:09:34] UI started
+[07:28:37] UI started
+[07:29:32] UI started
+[07:31:51] UI started
+[07:51:33] UI started
+[08:12:13] UI started
+[08:12:32] UI started
+[08:14:38] UI started
+[16:15:45] UI started
+[16:18:56] UI started
+[17:41:52] UI started
+[17:41:54] Agent started
+[17:46:07] UI started
+[17:46:07] Agent already running
+[17:54:21] UI started
+[17:54:21] Agent already running
+[17:57:24] UI started
+[17:57:24] Agent already running
+[18:34:50] UI started
+[18:34:50] Agent already running
+[18:37:53] UI started
+[18:37:54] Agent already running
+[18:44:50] UI started
+[18:44:52] Starting agent: C:\Users\91960\AppData\Local\Programs\Python\Python312\python.exe C:\Users\91960\energy-aware-workload-system\Node_client\node_agent.py
+[18:44:52] Agent process started
+[18:44:57] Agent health check error: HTTPConnectionPool(host='127.0.0.1', port=9000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000022066A5FD40>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[18:46:53] UI started
+[18:46:55] Starting agent: C:\Users\91960\AppData\Local\Programs\Python\Python312\python.exe C:\Users\91960\energy-aware-workload-system\Node_client\node_agent.py
+[18:46:55] Agent process started
+[18:47:02] Agent health check error: HTTPConnectionPool(host='127.0.0.1', port=9000): Max retries exceeded with url: /health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000029FB586FDD0>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+[18:47:59] UI started
+[18:48:01] Starting agent: C:\Users\91960\AppData\Local\Programs\Python\Python312\python.exe C:\Users\91960\energy-aware-workload-system\Node_client\node_agent.py
+[18:48:01] Agent process started
+[18:48:06] Agent confirmed running
+[18:51:37] Stopping agent process
+[18:55:12] UI started
+[18:55:14] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[18:55:14] Agent process started
+[18:55:19] Agent confirmed running
+[06:22:59] UI started
+[06:23:01] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[06:23:01] Agent process started
+[06:23:06] Agent confirmed running
+[06:24:47] Stopping agent process
+[06:33:29] UI started
+[06:33:31] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[06:33:31] Agent process started
+[06:33:36] Agent confirmed running
+[06:37:55] Stopping agent process
+[06:38:08] UI started
+[06:38:10] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[06:38:10] Agent process started
+[06:38:15] Agent confirmed running
+[06:39:37] UI started
+[06:39:39] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[06:39:39] Agent process started
+[06:39:44] Agent confirmed running
+[06:44:36] UI started
+[06:44:38] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\Node_client\node_agent.py
+[06:44:38] Agent process started
+[06:44:43] Agent confirmed running
+[06:46:31] UI started
+[06:46:31] Agent already running
+[06:47:20] Stopping agent process
+[14:27:57] UI started
+[14:27:59] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[14:27:59] Agent process started
+[14:28:04] Agent confirmed running
+[14:30:11] Stopping agent process
+[15:05:19] UI started
+[15:05:21] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:05:21] Agent process started
+[15:05:26] Agent confirmed running
+[15:16:34] Stopping agent process
+[15:28:29] UI started
+[15:28:31] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:28:31] Agent process started
+[15:28:36] Agent confirmed running
+[15:32:19] UI started
+[15:32:21] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:32:21] Agent process started
+[15:32:26] Agent confirmed running
+[15:34:07] Stopping agent process
+[15:35:40] UI started
+[15:35:42] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:35:43] Agent process started
+[15:35:48] Agent confirmed running
+[15:38:29] Stopping agent process
+[15:42:00] UI started
+[15:42:02] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:42:02] Agent process started
+[15:42:07] Agent confirmed running
+[15:44:02] Stopping agent process
+[15:44:16] UI started
+[15:44:18] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:44:18] Agent process started
+[15:44:23] Agent confirmed running
+[15:48:14] UI started
+[15:48:16] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:48:16] Agent process started
+[15:48:21] Agent confirmed running
+[15:50:56] UI started
+[15:50:58] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:50:58] Agent process started
+[15:51:03] Agent confirmed running
+[15:51:55] Stopping agent process
+[16:14:18] UI started
+[16:14:20] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[16:14:20] Agent process started
+[16:14:25] Agent confirmed running
+[16:15:39] Stopping agent process
+[16:47:50] UI started
+[16:47:52] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[16:47:52] Agent process started
+[16:47:57] Agent confirmed running
+[16:59:52] UI started
+[16:59:54] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[16:59:54] Agent process started
+[16:59:59] Agent confirmed running
+[17:03:27] Stopping agent process
+[17:07:02] UI started
+[17:07:02] Agent already running
+[17:08:00] UI started
+[17:08:00] Agent already running
+[08:02:33] UI started
+[08:02:35] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[08:02:35] Agent process started
+[08:02:40] Agent confirmed running
+[08:08:01] Stopping agent process
+[08:32:50] UI started
+[08:32:52] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[08:32:52] Agent process started
+[08:32:57] Agent confirmed running
+[08:38:47] UI started
+[08:38:49] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[08:38:49] Agent process started
+[08:38:54] Agent confirmed running
+[09:38:51] Stopping agent process
+[07:22:54] UI started
+[07:22:56] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[07:22:56] Agent process started
+[07:23:01] Agent confirmed running
+[07:46:18] Stopping agent process
+[07:52:03] UI started
+[07:52:06] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[07:52:06] Agent process started
+[07:52:11] Agent confirmed running
+[07:58:03] Stopping agent process
+[07:59:56] UI started
+[07:59:58] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[07:59:58] Agent process started
+[08:00:03] Agent confirmed running
+[08:02:32] Stopping agent process
+[08:06:56] UI started
+[08:06:58] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[08:06:58] Agent process started
+[08:07:03] Agent confirmed running
+[08:12:28] Stopping agent process
+[08:29:10] UI started
+[08:29:12] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[08:29:12] Agent process started
+[08:29:17] Agent confirmed running
+[09:12:42] Stopping agent process
+[15:44:18] UI started
+[15:44:20] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[15:44:20] Agent process started
+[15:44:25] Agent confirmed running
+[17:33:39] Stopping agent process
+[17:34:19] UI started
+[17:34:21] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[17:34:21] Agent process started
+[17:34:26] Agent confirmed running
+[17:41:29] Stopping agent process
+[17:41:39] UI started
+[17:41:41] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[17:41:41] Agent process started
+[17:41:46] Agent confirmed running
+[17:44:13] Stopping agent process
+[03:43:47] UI started
+[03:43:49] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[03:43:49] Agent process started
+[03:43:51] Agent confirmed running
+[03:44:20] Stopping agent process
+[03:48:38] UI started
+[03:48:40] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[03:48:40] Agent process started
+[03:48:42] Agent confirmed running
+[03:52:49] Stopping agent process
+[03:53:07] UI started
+[03:53:09] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[03:53:09] Agent process started
+[03:53:12] Agent confirmed running
+[03:59:20] Stopping agent process
+[03:59:45] UI started
+[03:59:47] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[03:59:47] Agent process started
+[03:59:49] Agent confirmed running
+📂 Opened C:/Users/91960/Downloads/Test file.py
+
+📤 Sending task...
+📝 Preview:
+for i in range(5):
+    print(i)
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': 'a01b81f0-57ae-47f4-a330-8c0b4d21b4fb', 'status': 'submitted'}
+✅ Task submitted → a01b81f0-57ae-47f4-a330-8c0b4d21b4fb
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 a01b81f0-57ae-47f4-a330-8c0b4d21b4fb
+⏱ 1.26 sec
+
+📤 OUTPUT:
+0
+1
+2
+3
+4
+[a01b81f0-57ae-47f4-a330-8c0b4d21b4fb] 0
+[a01b81f0-57ae-47f4-a330-8c0b4d21b4fb] 1
+[a01b81f0-57ae-47f4-a330-8c0b4d21b4fb] 2
+[a01b81f0-57ae-47f4-a330-8c0b4d21b4fb] 3
+[a01b81f0-57ae-47f4-a330-8c0b4d21b4fb] 4
+🛑 Closing UI...
+[04:00:59] Stopping agent process
+[04:07:58] UI started
+[04:08:00] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[04:08:00] Agent process started
+[04:08:02] Agent confirmed running
+📂 Opened C:/Users/91960/Downloads/Test file.java
+
+📤 Sending task...
+📝 Preview:
+public class Main {
+    public static void main(String[] args) {
+        for (int i = 0; i <= 5; i++) {
+            Syst
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '01c3a0e7-e303-4502-a281-d238fd014757', 'status': 'submitted'}
+✅ Task submitted → 01c3a0e7-e303-4502-a281-d238fd014757
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 01c3a0e7-e303-4502-a281-d238fd014757
+⏱ 2.365 sec
+
+📤 OUTPUT:
+0
+1
+2
+3
+4
+5
+[01c3a0e7-e303-4502-a281-d238fd014757] 0
+[01c3a0e7-e303-4502-a281-d238fd014757] 1
+[01c3a0e7-e303-4502-a281-d238fd014757] 2
+[01c3a0e7-e303-4502-a281-d238fd014757] 3
+[01c3a0e7-e303-4502-a281-d238fd014757] 4
+[01c3a0e7-e303-4502-a281-d238fd014757] 5
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MatrixOperations.py
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '8383015f-a882-4cfb-a46a-1281e3e3502d', 'status': 'submitted'}
+✅ Task submitted → 8383015f-a882-4cfb-a46a-1281e3e3502d
+⏳ Task status: submitted
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 8383015f-a882-4cfb-a46a-1281e3e3502d
+⏱ 0.621 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'numpy'
+
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '2bbb8c0a-0300-4d1c-8339-f5ea672e0791', 'status': 'submitted'}
+✅ Task submitted → 2bbb8c0a-0300-4d1c-8339-f5ea672e0791
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 2bbb8c0a-0300-4d1c-8339-f5ea672e0791
+⏱ 0.881 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+ModuleNotFoundError: No module named 'numpy'
+
+🛑 Closing UI...
+[04:14:53] Stopping agent process
+[04:14:59] UI started
+[04:15:01] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[04:15:01] Agent process started
+[04:15:04] Agent confirmed running
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MatrixOperations.py
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '08f99a43-d1fc-4d3f-9e60-2788bfda57da', 'status': 'submitted'}
+✅ Task submitted → 08f99a43-d1fc-4d3f-9e60-2788bfda57da
+⏳ Task status: submitted
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 08f99a43-d1fc-4d3f-9e60-2788bfda57da
+⏱ 0.099 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Docker image 'energy-node-python:latest' not found. Build it with: docker build -t energy-node-python:latest -f Node_client/docker/python-executor/Dockerfile Node_client/docker/python-executor
+🛑 Closing UI...
+[04:16:06] Stopping agent process
+[16:56:39] UI started
+[16:56:41] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[16:56:41] Agent process started
+[16:56:43] Agent confirmed running
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MatrixOperations.py
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': 'cf997628-346d-45cf-a5ff-7afffe2904dd', 'status': 'submitted'}
+✅ Task submitted → cf997628-346d-45cf-a5ff-7afffe2904dd
+⏳ Task status: submitted
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 cf997628-346d-45cf-a5ff-7afffe2904dd
+⏱ 0.143 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Docker image 'energy-node-python:latest' not found. Build it with: docker build -t energy-node-python:latest -f Node_client/docker/python-executor/Dockerfile Node_client/docker/python-executor
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '6c4418b6-7cea-4796-b887-261d20d6478e', 'status': 'submitted'}
+✅ Task submitted → 6c4418b6-7cea-4796-b887-261d20d6478e
+⏳ Task status: submitted
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 6c4418b6-7cea-4796-b887-261d20d6478e
+⏱ 0.1 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Docker image 'energy-node-python:latest' not found. Build it with: docker build -t energy-node-python:latest -f Node_client/docker/python-executor/Dockerfile Node_client/docker/python-executor
+🛑 Closing UI...
+[17:01:46] Stopping agent process
+[17:01:52] UI started
+[17:01:54] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[17:01:54] Agent process started
+[17:01:56] Agent confirmed running
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MatrixOperations.py
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': 'eace777b-7797-4047-ac45-d12c1ee4c2dd', 'status': 'submitted'}
+✅ Task submitted → eace777b-7797-4047-ac45-d12c1ee4c2dd
+⏳ Task status: submitted
+⏳ Task status: queued
+🛑 Closing UI...
+[17:03:50] Stopping agent process
+[17:04:07] UI started
+[17:04:09] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[17:04:09] Agent process started
+[17:04:12] Agent confirmed running
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MatrixOperations.py
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '33f054a3-f0c2-46d9-8591-4710ece59bba', 'status': 'submitted'}
+✅ Task submitted → 33f054a3-f0c2-46d9-8591-4710ece59bba
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 33f054a3-f0c2-46d9-8591-4710ece59bba
+⏱ 6.04 sec
+
+📤 OUTPUT:
+(np.float64(125.3769398229849), np.float64(4.888136173322596))
+[33f054a3-f0c2-46d9-8591-4710ece59bba] (np.float64(125.3769398229849), np.float64(4.888136173322596))
+
+📤 Sending task...
+📝 Preview:
+import numpy as np
+import time
+import sys
+
+class MatrixOperations:
+    def __init__(self, size):
+        self.size = siz
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '4118f17a-b67c-434d-9c17-fbe9861ea612', 'status': 'submitted'}
+✅ Task submitted → 4118f17a-b67c-434d-9c17-fbe9861ea612
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 4118f17a-b67c-434d-9c17-fbe9861ea612
+⏱ 2.777 sec
+
+📤 OUTPUT:
+(np.float64(125.13166367315709), np.float64(5.090334406653653))
+[4118f17a-b67c-434d-9c17-fbe9861ea612] (np.float64(125.13166367315709), np.float64(5.090334406653653))
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MultiThreadTask.java
+
+📤 Sending task...
+📝 Preview:
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+class MultiThreadTask implements Ru
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '47f75033-f43b-4460-896e-14386231c8d2', 'status': 'submitted'}
+✅ Task submitted → 47f75033-f43b-4460-896e-14386231c8d2
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 47f75033-f43b-4460-896e-14386231c8d2
+⏱ 3.418 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Error: Could not find or load main class Main
+Caused by: java.lang.ClassNotFoundException: Main
+
+
+📤 Sending task...
+📝 Preview:
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+class MultiThreadTask implements Ru
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '05b06114-1956-48f1-82ae-6427701032de', 'status': 'submitted'}
+✅ Task submitted → 05b06114-1956-48f1-82ae-6427701032de
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 05b06114-1956-48f1-82ae-6427701032de
+⏱ 2.548 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Error: Could not find or load main class Main
+Caused by: java.lang.ClassNotFoundException: Main
+
+
+📤 Sending task...
+📝 Preview:
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+class MultiThreadTask implements Ru
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '60cc500f-b8d9-4226-ae1d-4c44e1a4743c', 'status': 'submitted'}
+✅ Task submitted → 60cc500f-b8d9-4226-ae1d-4c44e1a4743c
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: failed
+
+🎉 TASK COMPLETED
+🆔 60cc500f-b8d9-4226-ae1d-4c44e1a4743c
+⏱ 3.107 sec
+
+📤 OUTPUT:
+
+
+❌ ERROR:
+Error: Could not find or load main class Main
+Caused by: java.lang.ClassNotFoundException: Main
+
+🛑 Closing UI...
+[17:19:44] Stopping agent process
+[17:19:55] UI started
+[17:19:57] Starting agent: C:\Users\91960\energy-aware-workload-system\backend\venv\Scripts\python.exe C:\Users\91960\energy-aware-workload-system\node_client\node_agent.py
+[17:19:57] Agent process started
+[17:19:59] Agent confirmed running
+📂 Opened C:/Users/91960/energy-aware-dataset/runtime-dataset-generator/user_inputs/MultiThreadTask.java
+
+📤 Sending task...
+📝 Preview:
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+class MultiThreadTask implements Ru
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '044a67bf-1b54-4fea-83ed-eac78736ae11', 'status': 'submitted'}
+✅ Task submitted → 044a67bf-1b54-4fea-83ed-eac78736ae11
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 044a67bf-1b54-4fea-83ed-eac78736ae11
+⏱ 2.588 sec
+
+📤 OUTPUT:
+
+
+📤 Sending task...
+📝 Preview:
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+
+class MultiThreadTask implements Ru
+🔗 Sending to http://127.0.0.1:9000/run
+📡 Response status: 200
+📄 Response data: {'task_id': '392a2135-bda3-4e32-a517-82c33b73380d', 'status': 'submitted'}
+✅ Task submitted → 392a2135-bda3-4e32-a517-82c33b73380d
+⏳ Task status: submitted
+⏳ Task status: queued
+⏳ Task status: completed
+
+🎉 TASK COMPLETED
+🆔 392a2135-bda3-4e32-a517-82c33b73380d
+⏱ 3.32 sec
+
+📤 OUTPUT:
+
