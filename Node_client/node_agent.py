@@ -49,7 +49,8 @@ CODE_VERSION = str(int(os.path.getmtime(os.path.abspath(__file__))))
 CONFIG_FILE = os.path.join(BASE_DIR, "node_config.json")
 LOG_FILE = os.path.join(BASE_DIR, "agent.log")
 
-DEFAULT_PUBLIC_BACKEND_URL = "https://your-app.onrender.com"
+# paste actual url : https://your-app.onrender.com
+DEFAULT_PUBLIC_BACKEND_URL = "http://192.168.157.208:8000"
 PYTHON_EXECUTOR_IMAGE = "energy-node-python:v2"
 JAVA_EXECUTOR_IMAGE = "energy-node-java:latest"
 
@@ -103,6 +104,7 @@ def find_executor_dir(executor_name):
             return nested
 
     return None
+
 
 # =========================
 # LOCAL API SERVER
@@ -225,6 +227,7 @@ def poll_task_results():
 shutdown_event = threading.Event()
 ws_connection = None
 event_loop = None  # important for thread-safe async
+heartbeat_endpoint_available = True
 
 
 def is_running():
@@ -265,13 +268,15 @@ def load_or_create_agent():
                 config = json.load(f)
 
             config.setdefault("backend_url", "")
-            config["agent_id"] = str(config.get("agent_id") or generate_agent_id()).strip()
+            config["agent_id"] = str(config.get(
+                "agent_id") or generate_agent_id()).strip()
             config["created_at"] = config.get("created_at") or time.time()
             config["node_id"] = config.get("node_id") or None
             config["node_name"] = str(
                 config.get("node_name") or get_default_node_name()
             ).strip()
-            config["backend_url"] = normalize_backend_url(config.get("backend_url"))
+            config["backend_url"] = normalize_backend_url(
+                config.get("backend_url"))
 
             permissions = config.get("permissions")
             if not isinstance(permissions, dict):
@@ -342,7 +347,8 @@ def get_local_ip():
 # =========================
 agent_config = load_or_create_agent()
 AGENT_ID = agent_config["agent_id"]
-NODE_ID = agent_config.get("node_id") or None
+CONFIGURED_NODE_ID = agent_config.get("node_id") or None
+NODE_ID = None
 BACKEND_URL = normalize_backend_url(agent_config.get("backend_url"))
 WS_URL = ""
 if BACKEND_URL:
@@ -358,7 +364,7 @@ IP_ADDRESS = get_local_ip()
 
 
 def register_node():
-    global NODE_ID
+    global NODE_ID, heartbeat_endpoint_available
 
     if not BACKEND_URL:
         raise RuntimeError(
@@ -371,8 +377,8 @@ def register_node():
             "Use a full http:// or https:// URL."
         )
 
-    if NODE_ID:
-        log(f"🔁 Using node_id: {NODE_ID}")
+    if CONFIGURED_NODE_ID:
+        log(f"Found saved node_id: {CONFIGURED_NODE_ID}")
 
     log("📡 Registering node...")
 
@@ -391,7 +397,8 @@ def register_node():
         "network_access": bool(agent_config.get("permissions", {}).get("network_access", True)),
     }
 
-    res = requests.post(f"{BACKEND_URL}/register-node", json=payload, timeout=10)
+    res = requests.post(f"{BACKEND_URL}/register-node",
+                        json=payload, timeout=10)
     res.raise_for_status()
 
     data = res.json()
@@ -400,6 +407,7 @@ def register_node():
     if NODE_ID:
         agent_config["node_id"] = NODE_ID
         agent_config["node_name"] = payload["node_name"]
+        heartbeat_endpoint_available = True
         save_config()
         log(f"✅ Registered: {NODE_ID}")
         return True
@@ -408,7 +416,7 @@ def register_node():
 
 
 def registration_retry_loop():
-    while is_running() and not NODE_ID:
+    while is_running():
         try:
             register_node()
             if NODE_ID:
@@ -416,7 +424,7 @@ def registration_retry_loop():
         except Exception as e:
             log(f"❌ Registration error: {e}")
 
-        if is_running() and not NODE_ID:
+        if is_running():
             log("🔁 Retrying registration in 5 seconds...")
             time.sleep(5)
 
@@ -467,7 +475,7 @@ def send_metrics():
         time.sleep(5)
 
 
-def heartbeat():
+def heartbeat_legacy():
     while is_running():
         if NODE_ID:
             try:
@@ -485,6 +493,32 @@ def heartbeat():
 # =========================
 # SAFE WS LOG (THREAD SAFE)
 # =========================
+
+
+def heartbeat():
+    global heartbeat_endpoint_available
+
+    while is_running():
+        if NODE_ID and heartbeat_endpoint_available:
+            try:
+                response = requests.post(
+                    f"{BACKEND_URL}/heartbeat",
+                    json={"node_id": NODE_ID},
+                    timeout=5
+                )
+
+                if response.status_code == 404:
+                    heartbeat_endpoint_available = False
+                    log("Heartbeat endpoint missing on backend; relying on metrics updates")
+                    continue
+
+                response.raise_for_status()
+                log("Heartbeat sent")
+
+            except Exception as e:
+                log(f"Heartbeat error: {e}")
+
+        time.sleep(10)
 
 
 def send_ws_log(msg):
@@ -595,7 +629,8 @@ def resolve_java_entrypoint(script):
         return None, None
 
     public_class_match = re.search(r"public\s+class\s+(\w+)\b", script)
-    public_class_name = public_class_match.group(1) if public_class_match else None
+    public_class_name = public_class_match.group(
+        1) if public_class_match else None
 
     main_match = re.search(r"public\s+static\s+void\s+main\s*\(", script)
     main_class_name = None
@@ -608,7 +643,8 @@ def resolve_java_entrypoint(script):
         if preceding_classes:
             main_class_name = preceding_classes[-1]
 
-    source_class_name = public_class_name or main_class_name or class_matches[0].group(1)
+    source_class_name = public_class_name or main_class_name or class_matches[0].group(
+        1)
     run_class_name = main_class_name or public_class_name or source_class_name
 
     return source_class_name, run_class_name
@@ -754,7 +790,8 @@ def shutdown():
     shutdown_event.set()
     if ws_connection and event_loop:
         try:
-            close_future = asyncio.run_coroutine_threadsafe(ws_connection.close(), event_loop)
+            close_future = asyncio.run_coroutine_threadsafe(
+                ws_connection.close(), event_loop)
             close_future.result(timeout=5)
         except Exception:
             pass
